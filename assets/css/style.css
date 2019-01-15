@@ -1,0 +1,19 @@
+html {
+    background: url("../images/wild-logo.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.main-window {
+    min-width: 400px;
+    min-height: 400px;
+    background-color: #E8F0BB;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+
+    
+}
